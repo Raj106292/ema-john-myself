@@ -1,0 +1,43 @@
+.product {
+    width: 300px;
+    height: 510px;
+    border: 2px solid rgba(149, 160, 167, 1);
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img {
+    width: 286px;
+    height: 286px;
+    padding-left: 8px;
+    padding-top: 6px;
+    border-radius: 12px;
+}
+
+.all-info {
+    padding: 8px;
+}
+
+.product-info {
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn-add-cart {
+    width: 100%;
+    position: absolute;
+    border: none;
+    left: 0%;
+    right: 0%;
+    top: 90.75%;
+    bottom: -0.2%;
+    background-color: #FFE0B3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-text{
+    margin-top: 14px;
+    margin-right: 6px;
+}

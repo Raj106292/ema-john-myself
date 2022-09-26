@@ -1,0 +1,9 @@
+.navigation {
+    background-color: #1C2B35;
+}
+
+.option a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
